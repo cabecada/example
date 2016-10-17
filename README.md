@@ -1,1 +1,1 @@
-[![Build Status](http://jenkins.otenv.com:8080/buildStatus/icon?job=puppet-modules-prs)](http://jenkins.otenv.com:8080/job/puppet-modules-prs)
+<a href='http://jenkins.otenv.com:8080/job/puppet-modules-prs/'><img src='http://jenkins.otenv.com:8080/job/puppet-modules-prs/badge/icon'></a>
